@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "imgonnacream",
-    "password": "",
+    "password": "#bot09",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "Warriors09-GJEr.aternos.me",
+    "port": 12157,
     "version": "",
     "try-creative": false
   },
